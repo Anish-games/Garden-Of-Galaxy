@@ -9,4 +9,5 @@ I'm curious:
 
 Let's chat about how easier game creation might change the way we make and play games. Share your thoughts and stories below!
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/7e939a89-5dea-4ad6-bfd6-b9426059c540)
+
